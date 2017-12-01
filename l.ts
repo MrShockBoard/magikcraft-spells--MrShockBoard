@@ -1,6 +1,6 @@
 const magik = magikcraft.io;
 
-function light() {
+function l() {
     const there = magik.aspecto();
     magik.shakti(there);
 }
