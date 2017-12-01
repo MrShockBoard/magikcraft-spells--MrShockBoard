@@ -1,0 +1,8 @@
+{
+  "name": "MrShockBoard_magikcraft_package_json",
+  "version": "0.0.0",
+  "dependencies": {
+    "magikcraft-api": "git+ssh://git@github.com:jwulf/magikcraft-api.git"
+  },
+  "author": "MrShockBoard"
+}
